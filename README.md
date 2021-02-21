@@ -1,4 +1,4 @@
-# Map Tiles Generation
+# Map Design and Tiles Generation
 
 ### The repository include:
 
