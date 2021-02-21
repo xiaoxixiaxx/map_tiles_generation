@@ -1,4 +1,13 @@
 # Map Tiles Generation
+
+### The repository should include:
+
+#### index.html: hosting web map
+#### assets folder: containing the map tile files
+#### img folder: containing map screenshots
+
+
+
 ### [Link to hosted webmap](https://xiaoxixiaxx.github.io/map_tiles_generation/)
 
 
