@@ -2,8 +2,8 @@
 
 ### The repository should include:
 
-#### index.html: hosting web map
-#### assets folder: containing the map tile files
+### index.html: hosting web map
+   * assets folder: containing the map tile files
 #### img folder: containing map screenshots
 
 
