@@ -7,7 +7,8 @@
 
 
 ### Tile 2:
-![tile2_data](https://user-images.githubusercontent.com/77243665/108588188-b8abca00-730c-11eb-8b40-1c489452466c.png)
+![tile2_car_accidents](https://user-images.githubusercontent.com/77243665/108615473-65438580-73b9-11eb-91e8-58c80407bca3.png)
+
 
 
 ### Tile 4:
