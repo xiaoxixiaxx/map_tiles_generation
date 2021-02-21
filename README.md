@@ -14,7 +14,7 @@
 ![tile3_basemap_data](https://user-images.githubusercontent.com/77243665/108615481-83a98100-73b9-11eb-8286-e5251325e358.png)
 
 ### Tile 4:
-![tile4_theme](https://user-images.githubusercontent.com/77243665/108588263-04f70a00-730d-11eb-938d-7174de310de9.png)
+![tile4_UWtheme](https://user-images.githubusercontent.com/77243665/108615490-a63b9a00-73b9-11eb-8834-7be67e81934c.png)
 
 
 
