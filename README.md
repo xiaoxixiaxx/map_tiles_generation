@@ -3,7 +3,7 @@
 
 
 ### Tile 1:
-![1613807396(1)](https://user-images.githubusercontent.com/77243665/108588301-3a9bf300-730d-11eb-9450-58cdaf54b970.png)
+![tile1_basemap](https://user-images.githubusercontent.com/77243665/108614666-58bb2f00-73b1-11eb-9a03-6c857cbd9f60.png)
 
 
 ### Tile 2:
