@@ -1,6 +1,6 @@
 # Map Tiles Generation
 
-### The repository should include:
+### The repository include:
 
    * index.html: hosting web map
    * assets folder: containing the map tile files
