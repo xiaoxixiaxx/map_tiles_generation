@@ -25,6 +25,7 @@ Use red to highlight road names.
 * Geographic Area of Focus: Downtown Seattle, WA
 * Zoom levels: Max Zoom - 15; Min Zoom - 10
 * Brief Description: Data layer showing the location of a traffic accident in Seattle in the past 5 years. Made by QGIS.
+* Data resource comes from [data.seattle.gov](https://data.seattle.gov/dataset/Collisions/nuam-5pkc)
 
 ## Tile 3: Basemap and Data
 ![tile3_basemap_data](https://user-images.githubusercontent.com/77243665/108615481-83a98100-73b9-11eb-8286-e5251325e358.png)
