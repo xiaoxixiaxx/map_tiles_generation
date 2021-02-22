@@ -1,6 +1,6 @@
 # Map Design and Tiles Generation
 
-### The repository include:
+### The repository includes:
 
    * index.html: hosting web map
    * assets folder: containing the map tile files
